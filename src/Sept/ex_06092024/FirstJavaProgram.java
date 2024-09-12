@@ -1,4 +1,4 @@
-package Sept.ex06092024;
+package Sept.ex_06092024;
 
 public class FirstJavaProgram {
 
