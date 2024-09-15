@@ -1,6 +1,5 @@
 package Sept.ex_13092024;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Task001 {
