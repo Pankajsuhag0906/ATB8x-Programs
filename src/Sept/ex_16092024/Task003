@@ -1,0 +1,33 @@
+ Ques-1: Difference between = and  == ?
+ Ans:   = is Called the Assignment Operator it is used to assign the Right hand side value to the Variable on Left Side.
+        example: int a=10; It assigns value 10 to Variable a.
+        == is Used to Compare two Object Values. If the Object are = then it return true, Otherwise false.
+        example: int a=5;
+                 int b=5;
+                 int c=10;
+                 System.out.println(a==b); //It returns true because 5=5
+                 System.out.println(a==c); //It returns false because 5!=10;
+
+ Ques-2: byte b = 10; long l = 10l; → How much Byte will be used.
+ Ans:           byte b=10;  //1 byte space
+                long l=10l;  // 8 byte
+
+                Total Space= 1+8=9 bytes
+
+
+
+ Ques-3: Another byte b = 10; byte c = 10;  What is the answer if We perform b+c, What is the data type it will give in result.
+ Ans:    byte b= 10;
+         byte c= 10;
+
+         b+c Will be of data type "int" because "byte" + "byte"= "int"
+
+
+
+
+ Ques-4:         short s = 10;
+                 char c = 'A'; //65
+                 int ss = s+c;
+                 System.out.println(ss);
+
+ Ans: Output: 75
