@@ -33,6 +33,7 @@ public class Task011 {
 
                 double fahrenhiet= (Celsius * 9/5) + 32;
                 System.out.printf("Fahrenhiet= %f",fahrenhiet);
+                break;
         }
     }
 }

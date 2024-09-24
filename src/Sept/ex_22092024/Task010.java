@@ -52,6 +52,7 @@ public class Task010 {
                 break;
             default:
                 System.out.println(" Plese Enter Correct Choice");
+                break;
 
         }
     }
