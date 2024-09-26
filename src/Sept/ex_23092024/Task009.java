@@ -1,8 +1,5 @@
-package Sept.ex_22092024;
+package Sept.ex_23092024;
 
-import com.sun.source.util.SourcePositions;
-
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Task009 {
