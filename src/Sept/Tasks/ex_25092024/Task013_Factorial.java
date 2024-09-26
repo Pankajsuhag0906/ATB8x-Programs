@@ -1,8 +1,8 @@
-package Sept.ex_25092024;
+package Sept.Tasks.ex_25092024;
 
 import java.util.Scanner;
 
-public class Task013 {
+public class Task013_Factorial {
     public static void main(String[] args) {
         /* Factorial Program - n = 5 , Output = 120 //  n = 5 ->  Fact = 5*4*3*2*1 = 120 */
 

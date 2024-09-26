@@ -1,6 +1,6 @@
-package Sept.ex_25092024;
+package Sept.Tasks.ex_25092024;
 
-public class Task014 {
+public class Task014_Prime_Number_1_to_100 {
     public static void main(String[] args) {
         // Prime Number from 1 to 100. (for loop)
 

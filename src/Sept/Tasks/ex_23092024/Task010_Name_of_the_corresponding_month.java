@@ -1,8 +1,8 @@
-package Sept.ex_23092024;
+package Sept.Tasks.ex_23092024;
 
 import java.util.Scanner;
 
-public class Task010 {
+public class Task010_Name_of_the_corresponding_month {
     public static void main(String[] args) {
         /* Write a program that takes an integer input (1-12) and prints the name of the corresponding month using a switch statement.
            Input  - 12
