@@ -1,8 +1,8 @@
-package Sept.Tasks;
+package Sept.ex_23092024;
 
 import java.util.Scanner;
 
-public class Task011 {
+public class Task011_converts_between_different_units {
     /* Write a program that converts between different units (e.g., kilometers to miles, Celsius to Fahrenheit) based on user selection using a switch statement.
             Input. -
     choice - 1 - km → m, km → 1km

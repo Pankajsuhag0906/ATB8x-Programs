@@ -1,8 +1,8 @@
-package Sept.Tasks;
+package Sept.ex_25092024;
 
 import java.util.Scanner;
 
-public class Task012 {
+public class Task012_Table_of_number {
     public static void main(String[] args) {
         // Table of number n = 10, print table with For or while.
 
