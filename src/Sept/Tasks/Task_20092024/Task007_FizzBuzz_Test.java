@@ -1,4 +1,4 @@
-package Sept.Tasks.ex_20092024;
+package Sept.Tasks.Task_20092024;
 
 public class Task007_FizzBuzz_Test
 {

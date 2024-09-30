@@ -1,4 +1,4 @@
-package Sept.Tasks.ex_25092024;
+package Sept.Tasks.Task_25092024;
 
 public class Task014_Prime_Number_1_to_100 {
     public static void main(String[] args) {

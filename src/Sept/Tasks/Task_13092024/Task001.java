@@ -1,4 +1,4 @@
-package Sept.Tasks.ex_13092024;
+package Sept.Tasks.Task_13092024;
 
 import java.util.Scanner;
 
