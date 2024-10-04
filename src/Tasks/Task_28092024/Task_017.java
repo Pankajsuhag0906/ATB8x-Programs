@@ -1,4 +1,4 @@
-package Sept.Tasks.Task_28092024;
+package Tasks.Task_28092024;
 
 public class Task_017 {
 

@@ -1,4 +1,4 @@
-package Sept.Tasks.Task_28092024;
+package Tasks.Task_28092024;
 
 public class Task_016 {
     // Create a Java program that prints the first 5 even numbers using a do-while loop.

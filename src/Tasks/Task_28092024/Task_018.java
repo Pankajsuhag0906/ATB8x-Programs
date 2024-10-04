@@ -1,4 +1,4 @@
-package Sept.Tasks.Task_28092024;
+package Tasks.Task_28092024;
 
 public class Task_018 {
     // Give me example of while vs do while loop in Lab ex
