@@ -1,4 +1,4 @@
-package Tasks.ex_11102024;
+package Tasks.Task_11102024;
 
 public class TestCaseAPI extends BaseTestAPI {
 
