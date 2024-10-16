@@ -2,9 +2,9 @@ package Tasks.Task_14102024;
 
 abstract class Book {
 
-    String name;
-    String author;
-    int price;
+    protected String name;
+    protected String author;
+    protected double price;
 
     abstract void getdetails();
 }
